@@ -14,7 +14,7 @@ export const robots = [
     {
       id: 3,
       name: 'Clementine Bauch',
-      username: 'Samantha',
+      username: 'Samanthanag',
       email: 'Nathan@yesenia.net'
     },
     {
